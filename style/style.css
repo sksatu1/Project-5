@@ -1,0 +1,8 @@
+.button-style{
+    background-color: whitesmoke;
+}
+.button-style:hover{
+    background-color: black;
+    color: white;
+    transition: .1s;
+}
