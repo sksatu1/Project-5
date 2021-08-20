@@ -6,3 +6,8 @@
     color: white;
     transition: .1s;
 }
+
+/* calculation section  */
+.under-line{
+border: 1px solid black;
+}
